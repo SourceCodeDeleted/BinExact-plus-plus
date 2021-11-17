@@ -1,6 +1,8 @@
 # BinExact-plus-plus
 Binexact++  - This is a plugin for IDA PRO that will product a diff between two functions in assembly. 
 
+jjjj
+
 This is currently being re written to accomodate more than just one specific project.
 
 In it's current state this works off a memory map. You supply the function name and address and size. This function will be compared with the assembly in the other function.
